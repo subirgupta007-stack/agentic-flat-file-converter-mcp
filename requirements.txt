@@ -1,0 +1,5 @@
+mcp[cli]
+boto3
+python-dotenv
+requests
+chardet
