@@ -134,7 +134,7 @@ def convert_github_flat_file_to_s3_csv(
 @mcp.tool()
 def health_check() -> Dict[str, str]:
     """
-    Simple health check tool for Claude to verify the MCP server is running.
+    Simple health check tool for Claude to verify the MCP server is running now.
     """
 
     return {
